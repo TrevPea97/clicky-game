@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import Navbar from "./components/NavBar";
 import Jumbotron from "./components/Jumbotron";
-import FriendCard from "./components/card";
+import Card from "./components/card";
 import Footer from "./components/footer";
 import car from "./car.json";
 import "./App.css";
